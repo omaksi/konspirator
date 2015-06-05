@@ -1,0 +1,18 @@
+{
+  "name":           "Konspirator",
+  "version":        "1.0",
+  "description":    "Chrome pre praveho konspiratora",
+  "background": {
+    "persistent": false,
+    "scripts": [ "background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+  "permissions":    [
+    "webNavigation", "tabs",
+    "http://*/",
+    "https://*/"
+  ],
+  "manifest_version": 2
+}
