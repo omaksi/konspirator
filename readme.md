@@ -7,7 +7,7 @@ Konspirator is an extension for Google Chrome, built for the BUNKER art project 
 
 ##Installation
 
-* [Download the Extension](https://github.com/omaksi/konspirator/raw/master/build/konspirator.ctx)
+* [Download the Extension](https://github.com/omaksi/konspirator/raw/master/build/konspirator.crx)
 * Go to chrome://extensions
 * Drag and drop the konspirator.ctx file to Chrome
 * ???
